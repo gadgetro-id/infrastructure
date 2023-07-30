@@ -1,7 +1,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 
 app = "gadgetro-id-lemmy-proxy"
-primary_region = "sea"
+primary_region = "sin"
 
 [deploy]
   strategy = "canary"
