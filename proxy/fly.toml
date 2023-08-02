@@ -7,7 +7,7 @@ primary_region = "sin"
   strategy = "canary"
 
 [env]
-  HOSTNAME = "lemdro.id"
+  HOSTNAME = "gadgetro.id"
 
 [http_service]
   internal_port = 80

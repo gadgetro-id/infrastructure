@@ -10,10 +10,10 @@ primary_region = "sin"
   strategy = "canary"
 
 [env]
-  HOSTNAME = "lemdro.id"
+  HOSTNAME = "gadgetro.id"
   LEMMY_UI_HTTPS = "false"
-  LEMMY_UI_LEMMY_EXTERNAL_HOST = "lemdro.id:443"
-  LEMMY_UI_LEMMY_INTERNAL_HOST = "lemdroid-lemmy.flycast:81"
+  LEMMY_UI_LEMMY_EXTERNAL_HOST = "gadgetro.id:443"
+  LEMMY_UI_LEMMY_INTERNAL_HOST = "gadgetro-id-lemmy.flycast:81"
 
 [http_service]
   internal_port = 1234
